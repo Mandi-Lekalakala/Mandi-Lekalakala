@@ -16,7 +16,7 @@ I've always enjoyed understanding how things work, how they're built, and - most
 My goal is to work in **Healthcare Technology**, bridging my passion for helping people with my interest in systems, technology, and problem-solving.💗
 
 🧠 Currently learning & building
-- Frontend Development
+- Web Development
 - IT Support & Troubleshooting
 - Quality Assurance
 
