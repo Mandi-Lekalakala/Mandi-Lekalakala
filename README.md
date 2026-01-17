@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Mandi-Lekalakala/Mandi-Lekalakala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<strong>Mandi Lekalakala</strong>✨
+</br>
+*A continuous work in progress* 🛠️
 
-Here are some ideas to get you started:
+🌍 South Africa | 💻 IT Support, Systems & Frontend Development  
+🎓 STEM background | 🚀 Career switch into Healthcare Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+A former Biological Sciences nerd 👩🏽‍⚕️ transitioning into IT to continue keeping her brain stimulated.⚙️ 
+</br>
+I've always enjoyed understanding how things work, how they're built, and - most importantly - how to fix them.
+
+My goal is to work in **Healthcare Technology**, bridging my passion for helping people with my interest in systems, technology, and problem-solving.💗
+
+🧠 Currently learning & building
+- Frontend Development
+- IT Support & Troubleshooting
+- Quality Assurance
+
+👩🏽‍💻 Junior Web Developer (SheCodes Bootcamp)
+
+🔗 Let’s connect:
+www.linkedin.com/in/mandilekalakala
