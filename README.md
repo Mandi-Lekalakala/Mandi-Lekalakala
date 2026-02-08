@@ -4,9 +4,7 @@
 </br>
 *A continuous work in progress* 
 
-🌍 South Africa | 💻 IT Support, Systems & Frontend Development  
-🎓 STEM background | 🚀 Career switch into Healthcare Tech
-
+🌍 South Africa | 💻 IT Support, Systems & Frontend Development | 🎓 STEM background
 </div>
 
 A former Biological Sciences nerd transitioning into IT to continue keeping her brain stimulated.
