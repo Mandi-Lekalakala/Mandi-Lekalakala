@@ -7,11 +7,9 @@
 🌍 South Africa | 💻 IT Support, Systems & Frontend Development | 🎓 STEM background
 </div>
 
-A former Biological Sciences nerd transitioning into IT to continue keeping her brain stimulated.
-</br>
-I've always enjoyed understanding how things work, how they're built, and - most importantly - how to fix them.
-
-My goal is to work in **Healthcare Tech**, bridging my passion for helping people with my interest in systems, technology, and problem-solving.
+I build clean, accessible, and user-focused web interfaces, with a strong interest in systems, problem-solving, and real-world impact.
+<br />
+Working toward a career in HealthTech, creating thoughtful tools that support people and healthcare systems.
 
 🧠 Currently learning & building
 - Web Development
