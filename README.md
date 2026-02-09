@@ -4,19 +4,12 @@
 </br>
 *A continuous work in progress* 
 
-🌍 South Africa | 💻 IT Support, Systems & Frontend Development | 🎓 STEM background
+🌍 South Africa | 💻 Frontend Web Development, IT Support, Systems & Quality Assurance | 🎓 STEM background
 </div>
 
 I build clean, accessible, and user-focused web interfaces, with a strong interest in systems, problem-solving, and real-world impact.
 <br />
 Working toward a career in HealthTech, creating thoughtful tools that support people and healthcare systems.
-
-🧠 Currently learning & building
-- Web Development
-- IT Support & Troubleshooting
-- Quality Assurance
-
-👩🏽‍💻 Junior Web Developer (SheCodes Bootcamp)
 
 🛠️Tech Stack:
 
