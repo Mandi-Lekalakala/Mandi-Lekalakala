@@ -33,6 +33,7 @@ My goal is to work in **Healthcare Tech**, bridging my passion for helping peopl
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Hosting](https://img.shields.io/badge/Hosting-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-FF4088?style=for-the-badge&logo=figma&logoColor=white)
 
 
 🔗 Let’s connect:
