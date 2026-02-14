@@ -4,14 +4,14 @@
 </br>
 *A continuous work in progress* 
 
-🌍 South Africa | 💻 Frontend Web Development, IT Support, Systems & Quality Assurance | 🎓 STEM background
+South Africa | Frontend Web Development, Quality Assurance  &  IT Technical/Customer Support | STEM background
 </div>
 
 I build clean, accessible, and user-focused web interfaces, with a strong interest in systems, problem-solving, and real-world impact.
 <br />
 Working toward a career in HealthTech, creating thoughtful tools that support people and healthcare systems.
 
-🛠️Tech Stack:
+## Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
