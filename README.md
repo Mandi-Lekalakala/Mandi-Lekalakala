@@ -2,7 +2,7 @@
 
 <strong>Mandi Lekalakala</strong>
 </br>
-*A continuous work in progress* 
+*A developer is never late, she comits when she needs to* 
 
 South Africa | Frontend Web Development, Quality Assurance  &  IT Technical/Customer Support | STEM background
 </div>
