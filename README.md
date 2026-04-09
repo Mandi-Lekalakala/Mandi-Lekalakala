@@ -2,7 +2,7 @@
 
 <strong>Mandi Lekalakala</strong>
 </br>
-*"A developer is never late, nor is she early. She comits precisely when she means to."* 
+*"A developer is never late, nor is she early. She comits precisely when she needs to."* 
 
 South Africa | Junior Front-End Developer | Web Development | Website Testing | STEM Background
 </div>
