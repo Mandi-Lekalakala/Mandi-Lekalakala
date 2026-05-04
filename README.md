@@ -4,7 +4,7 @@
 </br>
 *"A developer is never late, nor is she early. She comits precisely when she needs to."* 
 
-South Africa | Junior Front-End Developer | Web Development | Website Testing | STEM Background
+South Africa | Junior Front-End Developer | Web Development | STEM Background
 </div>
 
 I build clean, accessible, and user-focused web interfaces, with a strong interest in systems, problem-solving, and real-world impact.
