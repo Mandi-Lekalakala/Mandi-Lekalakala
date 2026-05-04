@@ -27,6 +27,8 @@ Working toward a career in HealthTech, creating thoughtful tools that support pe
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-FF4088?style=for-the-badge&logo=figma&logoColor=white)
 
+🔗 View my Portfolio:
+https://mandi-lekalakala.netlify.app/
 
 🔗 Let’s connect:
 www.linkedin.com/in/mandilekalakala
